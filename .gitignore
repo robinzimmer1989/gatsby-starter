@@ -1,0 +1,11 @@
+static/admin/*.bundle.*
+node_modules
+.cache/
+public/
+yarn-error.log
+.env
+.netlify/
+.DS_Store
+*.zip
+.eslintrc
+.wordpress-cache
